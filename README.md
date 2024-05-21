@@ -26,3 +26,4 @@ I want to be good Machine Learning Engineer, so I'll try my best in High Quality
 updated every day<br>
 
 <img src='https://preview.redd.it/my-daughter-tells-me-youre-an-ai-engineer-v0-hq54uuvqe8uc1.jpeg?auto=webp&s=6e413aee56fe73b0f63a9c9e852e098c90ef32a6' width=20%>
+<img src='https://www.mihaileric.com/static/linear_regression_joke-9400ea8c70e0500f1934f7a22c86bc68-b75a8.png' width=20%>
