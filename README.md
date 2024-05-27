@@ -28,3 +28,4 @@ updated (nearly) every day<br>
 <img src='https://preview.redd.it/my-daughter-tells-me-youre-an-ai-engineer-v0-hq54uuvqe8uc1.jpeg?auto=webp&s=6e413aee56fe73b0f63a9c9e852e098c90ef32a6' width=20%>
 <img src='https://www.mihaileric.com/static/linear_regression_joke-9400ea8c70e0500f1934f7a22c86bc68-b75a8.png' width=20%>
 <img src='https://preview.redd.it/transformers-meme-v0-lfcdcbbogkjc1.jpeg?auto=webp&s=856d4f8a202534ad9f6dd1ddc724fdc0a3cf6479' width=20%>
+<img src='https://preview.redd.it/tearscomeoutthroughthepicture-v0-733a12krh30d1.png?width=640&crop=smart&auto=webp&s=c8f712f9655861280b731a6268b165dc0fe9688a' width=20%>
