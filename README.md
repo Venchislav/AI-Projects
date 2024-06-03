@@ -30,3 +30,4 @@ updated (nearly) every day<br>
 <img src='https://preview.redd.it/transformers-meme-v0-lfcdcbbogkjc1.jpeg?auto=webp&s=856d4f8a202534ad9f6dd1ddc724fdc0a3cf6479' width=20%>
 <img src='https://preview.redd.it/tearscomeoutthroughthepicture-v0-733a12krh30d1.png?width=640&crop=smart&auto=webp&s=c8f712f9655861280b731a6268b165dc0fe9688a' width=20%>
 <img src='https://preview.redd.it/newprogrammers-v0-8iddwtf95r3d1.png?auto=webp&s=cc877323d6fb5ccf68b7d595cd6272d3800216e7' width=20%>
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKD5IB70gr6lJQGSEiq6TiG9beFC8EH_dRo6WN3kbQqqPWcj_a9cjO10WqJ_izmYf0MmHu4FECszkzl4f2MkcOMj2MOcw93_mDa_IJ_yOSmN_RvWSpBbT70Y_LZy25XGMEeysPckedYfU/s1600/97882351_981209505666883_4768195812104601600_n.png' width=20%>
