@@ -1,0 +1,6 @@
+Naive Bayes for Spam Classification from scratch!
+Advanced dive into PCA and Text data preprocessing
+
+Sklearn❌
+NumPy✔
+Pandas✔
